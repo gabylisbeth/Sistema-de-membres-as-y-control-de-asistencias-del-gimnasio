@@ -1,4 +1,4 @@
-# Sistema de Membresías y Control de Asistencias 
+# GymSoft: Sistema de Membresías y Control de Asistencias 
 
 ## Autores (Development Team)
 * **Mendoza Medina Leonela Mishelle** 
