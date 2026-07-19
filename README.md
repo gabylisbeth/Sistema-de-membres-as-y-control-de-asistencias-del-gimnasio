@@ -8,7 +8,7 @@
 
 ## Trazabilidad de Requerimientos Implementados
 
-Este prototipo interactivo (SPA) permite validar los siguientes puntos clave de la entrega técnica:
+Este prototipo interactivo permite validar los siguientes puntos clave de la entrega técnica:
 
 * **RF-01 (Registro de Miembros):** Formulario para la gestión del recepcionista. Cuenta con mitigación de flujos alternativos controlando que no se registren identificaciones duplicadas.
 * **RF-02 (Registro de Pagos Mensuales):** Implementa las **Clases de Equivalencia** definidas para la mensualidad de **$30.00**.Si ejecutas pruebas con valores límite ($29.99 o $30.01), el sistema bloqueará la caja chica de forma automática.
