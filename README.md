@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Sistema de Membresías y Control de Asistencias - UNEMI GymSoft
+# Sistema de Membresías y Control de Asistencias 
 
 ## Autores (Development Team)
 * **Mendoza Medina Leonela Mishelle** 
