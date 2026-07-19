@@ -4,7 +4,7 @@
 
 ## 👥 Autores (Development Team)
 * **Mendoza Medina Leonela Mishelle** [cite: 284]
-* [cite_start]**Rivero Silva Gabriela Lisbeth** [cite: 285]
+* **Rivero Silva Gabriela Lisbeth** [cite: 285]
 
 ---
 
