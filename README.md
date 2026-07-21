@@ -1,8 +1,8 @@
 # GymSoft: Sistema de Membresías y Control de Asistencias
 
 ##  Autores (Development Team)
-* [cite_start]**Mendoza Medina Leonela Mishelle** 
-* [cite_start]**Rivero Silva Gabriela Lisbeth** 
+* **Mendoza Medina Leonela Mishelle** 
+* **Rivero Silva Gabriela Lisbeth** 
 
 ---
 
